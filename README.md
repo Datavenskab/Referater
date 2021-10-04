@@ -1,2 +1,2 @@
 # Referater
-Referater af møder i Datavenskab
+Indeholder referater af bestyrelsesmøder og generalforsamlinger i Datavenskab.
